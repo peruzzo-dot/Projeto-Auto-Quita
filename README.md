@@ -1,6 +1,6 @@
 # 🚗 Auto Quita - Landing Page Profissional
 
-Uma landing page moderna, acessível e otimizada para a **Auto Quita**, empresa especializada na negociação e quitação de veículos com pendências financeiras em Porto Alegre e Região Metropolitana.
+Uma landing page moderna, acessível e otimizada para a **Auto Quita**, empresa especializada na negociação e quitação de veículos com pendências financeiras em Porto Alegre e Toda RS.
 
 ---
 
