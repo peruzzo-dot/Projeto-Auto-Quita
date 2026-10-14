@@ -13,6 +13,10 @@ O site foi idealizado e desenvolvido com o objetivo principal de servir como um 
 - **Clareza de Informações:** Apresentar de forma simples e transparente os critérios de compra (ex: modelos a partir do ano de 2016 e veículos para futura quitação ou repasse).
 - **Autoridade e Confiança:** Estabelecer a identidade visual da marca com um design elegante em tons escuros e detalhes dourados/âmbar (`selection:bg-amber-500`).
 
+![Foto 1 do Auto Quita](docs/foto1autoquita.png)
+![Foto 2 do Auto Quita](docs/foto2autoquita.png)
+![Foto 3 do Auto Quita](docs/foto3autoquita.png)
+![Foto 4 do Auto Quita](docs/foto4autoquita.png)
 ### 📱 Versão Mobile (Celular)
 ![Demonstração da versão mobile](docs/autoquita%20celular.png)
 
